@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="pencils" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1900 570.1" style="enable-background:new 0 0 1900 570.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#020202;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+
+	#pencil1:hover #bottom1 {
+	fill: #901010;
+	}
+    #pencil1:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	
+	}
+    
+    
+
+	#pencil2:hover #bottom2 {
+	fill: #f15805;
+	} 
+	#pencil2:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	
+	}
+
+	#pencil3:hover #bottom3 {
+	fill: #f7ed52;
+	} 
+	#pencil3:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil4:hover #bottom4 {
+	fill: #1c740e;
+	} 
+	#pencil4:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil5:hover #bottom5 {
+	fill: #2ac8b7;
+	} 
+	#pencil5:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil6:hover #bottom6 {
+	fill: #1c2f90;
+	} 
+	#pencil6:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil7:hover #bottom7 {
+	fill: #d677ee;
+	}
+	#pencil7:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil8:hover #bottom8 {
+	fill: #4a0062;
+	}
+	#pencil8:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+	#pencil9:hover #bottom9 {
+	fill: #592800;
+	} 
+	#pencil9:hover{
+	transform:scaleY(1.05);
+	transform-origin: center;
+	}
+
+</style>
+<title>pencils</title>
+<g id="pencil1">
+	<path id="bottom1" class="st0" d="M119.8,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7L192.8,28l-73,157.3L119.8,535.5z"/>
+	<path class="st1" d="M172.7,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C137.4,147.4,155,109.4,172.7,71.4z"/>
+</g>
+<g id="pencil2">
+	<path id="bottom2" class="st0" d="M302.9,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7L376,28l-73,157.3L302.9,535.5z"/>
+	<path class="st1" d="M355.8,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15-0.9,22.2-3.4L449,186.7c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C320.5,147.4,338.2,109.4,355.8,71.4z"/>
+</g>
+<g id="pencil3">
+	<path id="bottom3" class="st0" d="M486,529.9c45.7,24.3,100.4,24.3,146.1,0V181.1l-73-158.7L486,179.7V529.9z"/>
+	<path class="st1" d="M539,65.8c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C503.7,141.7,521.3,103.7,539,65.8z"/>
+</g>
+<g id="pencil4">
+	<path id="bottom4" class="st0" d="M669.2,529.9c45.7,24.3,100.4,24.3,146.1,0V181.1l-73-158.7l-73,157.3L669.2,529.9z"/>
+	<path class="st1" d="M722.1,65.8c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15-0.9,22.2-3.4c17.7,38.4,35.4,76.9,53.1,115.3
+		c-20.9,7.6-42.8,11.8-65,12.5c-27.7,0.8-55.2-3.9-81.1-13.9C686.8,141.7,704.5,103.7,722.1,65.8z"/>
+</g>
+<g id="pencil5">
+	<path id="bottom5" class="st0" d="M852.3,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7L925.4,28l-73,157.3L852.3,535.5z"/>
+	<path class="st1" d="M905.2,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C870,147.4,887.6,109.4,905.2,71.4z"/>
+</g>
+<g id="pencil6">
+	<path id="bottom6" class="st0" d="M1035.5,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7l-73-158.7l-73,157.3L1035.5,535.5z"/>
+	<path class="st1" d="M1088.4,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15.1-0.9,22.2-3.4c17.7,38.4,35.4,76.9,53.1,115.3
+		c-20.9,7.6-42.8,11.8-65,12.5c-27.7,0.8-55.2-3.9-81.1-13.9C1053.1,147.4,1070.8,109.4,1088.4,71.4z"/>
+</g>
+<g id="pencil7">
+	<path id="bottom7" class="st0" d="M1223.2,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7l-73-158.7l-73,157.3L1223.2,535.5z"/>
+	<path class="st1" d="M1276.1,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15.1-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C1240.8,147.4,1258.4,109.4,1276.1,71.4z"/>
+</g>
+<g id="pencil8">
+	<path id="bottom8" class="st0" d="M1410.9,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7l-73-158.7l-73.1,157.3L1410.9,535.5z"/>
+	<path class="st1" d="M1463.8,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15.1-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C1428.5,147.4,1446.1,109.4,1463.8,71.4z"/>
+</g>
+<g id="pencil9">
+	<path id="bottom9" class="st0" d="M1598.6,535.5c45.7,24.3,100.4,24.3,146.1,0V186.7L1671.6,28l-73,157.3L1598.6,535.5z"/>
+	<path class="st1" d="M1651.5,71.4c5.8,2,11.8,3.1,17.9,3.3c7.5,0.2,15.1-0.9,22.2-3.4l53.1,115.3c-20.9,7.6-42.8,11.8-65,12.5
+		c-27.7,0.8-55.2-3.9-81.1-13.9C1616.2,147.4,1633.8,109.4,1651.5,71.4z"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="arrows" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1518.2 955.2" style="enable-background:new 0 0 1518.2 955.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-miterlimit:10;}
+
+    #white_arrow{
+    fill:black;
+
+    }
+    #arrows:hover #white_arrow{
+    fill:white;
+    }
+	#arrows:hover {
+	 filter:invert(100%)
+	}
+</style>
+<title>Artboard 1</title>
+<g id="black_arrow">
+	<polygon class="st0" points="76.4,199.5 257.9,199.5 257.9,769.5 334.3,769.5 167.1,955.2 0,769.5 76.4,769.5 	"/>
+	<polygon class="st0" points="455,755.7 273.6,755.7 273.6,185.7 197.2,185.7 364.3,0 531.5,185.7 455,185.7 	"/>
+	<polygon class="st0" points="471.1,199.5 652.5,199.5 652.5,769.5 728.9,769.5 561.8,955.2 394.6,769.5 471.1,769.5 	"/>
+	<polygon class="st0" points="849.7,755.7 668.2,755.7 668.2,185.7 591.8,185.7 759,0 926.1,185.7 849.7,185.7 	"/>
+	<polygon class="st0" points="865.7,203 1047.1,203 1047.1,773 1123.6,773 956.4,958.7 789.3,773 865.7,773 	"/>
+	<polygon class="st0" points="1244.3,759.2 1062.9,759.2 1062.9,189.2 986.5,189.2 1153.6,3.5 1320.7,189.2 1244.3,189.2 	"/>
+	<polygon class="st0" points="1260.3,203 1441.8,203 1441.8,773 1518.2,773 1351.1,958.7 1183.9,773 1260.3,773 	"/>
+</g>
+<g id="white_arrow">
+	<polygon class="st1" points="196.2,869.1 138.1,869.1 138.1,393.5 113.6,393.5 167.1,238.6 220.7,393.5 196.2,393.5 	"/>
+	<polygon class="st1" points="335.3,86.2 393.4,86.2 393.4,561.7 417.8,561.7 364.3,716.7 310.8,561.7 335.3,561.7 	"/>
+	<polygon class="st1" points="590.8,869.1 532.7,869.1 532.7,393.5 508.3,393.5 561.8,238.6 615.3,393.5 590.8,393.5 	"/>
+	<polygon class="st1" points="729.9,86.2 788,86.2 788,561.7 812.5,561.7 759,716.7 705.4,561.7 729.9,561.7 	"/>
+	<polygon class="st1" points="985.5,872.6 927.4,872.6 927.4,397 902.9,397 956.4,242.1 1009.9,397 985.5,397 	"/>
+	<polygon class="st1" points="1124.6,89.7 1182.6,89.7 1182.6,565.2 1207.1,565.2 1153.6,720.2 1100.1,565.2 1124.6,565.2 	"/>
+	<polygon class="st1" points="1380.1,872.6 1322,872.6 1322,397 1297.6,397 1351.1,242.1 1404.6,397 1380.1,397 	"/>
+</g>
+</svg>

@@ -1,0 +1,92 @@
+body{
+	background-color: black;
+}
+
+.MainContainer {
+	margin: 0 auto;
+	width:55%;
+	background-color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+
+
+}
+
+p{
+	margin-top:40px;
+	font-family: Arial Rounded MT Bold;
+	text-align:center;
+}
+
+
+
+
+.img-wrapper{
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 90px;
+	
+
+}
+
+.img-wrapperLogo{
+	width: 100%;
+ background-color: gray;
+	
+	}
+
+.img-wrapperfire{
+	width: 36%;
+	}
+
+.img-wrapperapple{
+	width: 25%;
+}
+
+.fireApplecontainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	
+}
+.arrowsRainbowcontainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	
+}
+
+.img-wrapperArrows{
+	width: 36%;
+	}
+
+.img-wrapperRainbow{
+	width: 36%;
+	}
+
+
+.bulbCrossescontainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	
+}
+
+.img-wrapperBulb{
+	width: 15%;
+	}
+
+.img-wrapperCrosses{
+	width: 36%;
+	}
+
+.img-wrapperSpills{
+	width: 100%;
+	margin-top: 90px;
+	}
+
+.twoImgcontainer{
+	display: flex;
+	flex-direction: row;
+}
