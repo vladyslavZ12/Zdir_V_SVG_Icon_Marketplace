@@ -22,29 +22,47 @@ p{
 
 
 
-.img-wrapper{
+#pencils{
 	width: 100%;
 	margin-top: 50px;
 	margin-bottom: 90px;
 	
+	
 
 }
 
-.img-wrapperLogo{
+#man{
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 90px;
+	
+	
+
+}
+
+#birds{
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 90px;
+	
+	
+
+}
+.Logo{
 	width: 100%;
  background-color: gray;
 	
 	}
 
-.img-wrapperfire{
+#fire{
 	width: 36%;
 	}
 
-.img-wrapperapple{
+#apple{
 	width: 25%;
 }
 
-.fireApplecontainer{
+#fireApplecontainer{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
@@ -57,31 +75,31 @@ p{
 	
 }
 
-.img-wrapperArrows{
+#Arrows{
 	width: 36%;
 	}
 
-.img-wrapperRainbow{
+#Rainbow{
 	width: 36%;
 	}
 
 
-.bulbCrossescontainer{
+#bulbCrossescontainer{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
 	
 }
 
-.img-wrapperBulb{
+#Bulb{
 	width: 15%;
 	}
 
-.img-wrapperCrosses{
+#Crosses{
 	width: 36%;
 	}
 
-.img-wrapperSpills{
+#Spills{
 	width: 100%;
 	margin-top: 90px;
 	}
